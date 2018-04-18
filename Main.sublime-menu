@@ -1,0 +1,7 @@
+[
+	{ 
+		"id": "edit","children":[ 
+        	{"caption": "paste and delete blank lines","command": "paste_without_blank_lines"} 
+    	] 
+	}
+] 

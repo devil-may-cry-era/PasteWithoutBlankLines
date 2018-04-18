@@ -1,0 +1,22 @@
+{
+  "schema_version": "2.0",
+  "packages": [
+    {
+      "name": "Paste Without Blank Lines",
+      "description": "Del all blank lines in clipboard,and paste.",
+      "author": "devil-may-cry-era",
+      "homepage": "https://github.com/devil-may-cry-era/PasteWithoutBlankLines",
+      "last_modified": "2018-04-17 18:09:00",
+      "readme": "https://raw.github.com/devil-may-cry-era/PasteWithoutBlankLines/master/README.md",
+      "labels": ["edit paste blankLines"],
+      "platforms": {
+        "*": [
+          {
+            "version": "1.0.0",
+            "url": "https://codeload.github.com/devil-may-cry-era/PasteWithoutBlankLines/zip/master"
+          }
+        ]
+      }
+    }
+  ]
+}
